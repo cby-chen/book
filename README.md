@@ -36,6 +36,7 @@ https://www.oiox.cn/
 -  https://www.oiox.cn/ ||  || 一号网站
 -  https://www.chenby.cn/ ||  || 二号网站
 -  https://blog.oiox.cn/ ||  || 三号网站
+-  https://book.oiox.cn/ ||  || GitBook
 -  https://tc.oiox.cn/ ||  || 小陈图床
 -  https://wiki.chenby.cn/ ||  || 维基百科
 -  https://frp-8.oiox.cn/  ||  || 穿透-8
