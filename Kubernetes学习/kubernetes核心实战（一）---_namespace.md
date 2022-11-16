@@ -88,36 +88,14 @@ kubernetes-dashboard   Active   21h
 [root@k8s-master-node1 ~]#
 ```
 
-  
-
 ##### 查看yaml格式
 ```
 [root@k8s-master-node1 ~]# kubectl  create  namespace cby
 namespace/cby created
 [root@k8s-master-node1 ~]# 
 [root@k8s-master-node1 ~]# kubectl  get namespaces cby -o yaml
-apiVersion: v1
-kind: Namespace
-metadata:
-creationTimestamp: "2021-11-17T03:08:10Z"
-labels:
-	kubernetes.io/metadata.name: cby
-name: cby
-resourceVersion: "311903"
-uid: 63f2e47d-a2a5-4a67-8fd2-7ca29bfb02be
-spec:
-finalizers:
-
-- kubernetes
-	status:
-	phase: Active
 [root@k8s-master-node1 ~]#
 ```
-
-
-
-
-
 
 > **关于**
 >
